@@ -1,0 +1,8 @@
+#!/bin/bash
+myname=zwd
+myos=arch
+text = 1+2
+echo my name $myname
+echo my os $myos
+echo $text
+
